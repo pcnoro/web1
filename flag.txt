@@ -1,0 +1,1 @@
+CTF{abracadabra_you_found_the_magic_flag}
